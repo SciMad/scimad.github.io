@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mystuniv
 title: Mysterious Universe
 <!-- permalink: /mystuniv/ -->
 ---

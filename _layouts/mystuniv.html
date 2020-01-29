@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    {% include messenger.html %}
+    
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+        <div class="fb-comments" data-href="https://scimad.github.io/mystuniv/" data-width="600" data-numposts="5"></div>
+      </div>
+     
+    </div>
+    {% include footer.html %}
+  </body>
+
+</html>
